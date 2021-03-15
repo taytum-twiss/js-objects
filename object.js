@@ -1,3 +1,4 @@
+//day 1
 let firstName = 'Taytum'
 let lastName = 'Twiss'
 let age = '15'
@@ -11,3 +12,7 @@ console.log(age)
 console.log(school)
 console.log(state)
 console.log(favoriteFood)
+
+//day 2
+let favoriteSubjects =[{name:'math'}, {name:'english'}, {name:'chemistry'}];
+let family = [{name:'Amber/Mom'}, {name:'Ross/Dad'}];
